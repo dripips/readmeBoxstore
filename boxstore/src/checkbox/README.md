@@ -1,0 +1,6 @@
+---
+icon: octagon-check
+---
+
+# CheckBox
+
