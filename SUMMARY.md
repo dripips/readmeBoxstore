@@ -95,3 +95,16 @@
         kind: openapi
         spec: boxstore-api
   ```
+
+***
+
+* ```yaml
+  type: builtin:openapi
+  props:
+    models: true
+  dependencies:
+    spec:
+      ref:
+        kind: openapi
+        spec: platform
+  ```
